@@ -1,7 +1,7 @@
 {
-  "name": "YArrowPlayzAFK",
+  "name": "GUSTMC_Bot",
   "bot-account": {
-    "username": "Sub2YArrowPlayz",
+    "username": "GustMC_Bot",
     "password": "",
     "type": "offline"
   },
@@ -26,13 +26,13 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
         "Subscribe to YArrowPlayz!",
-        "I like to play Minecraft!"
+        "Subscribe to YArrowPlayz!",
+        "Subscribe to YArrowPlayz!"
       ]
     },
     "chat-log": true,
